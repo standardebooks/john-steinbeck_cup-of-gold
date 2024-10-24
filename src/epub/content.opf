@@ -46,7 +46,7 @@
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-US</dc:language>
-		<dc:source>IA_URL</dc:source>
+		<dc:source>https://archive.org/details/in.ernet.dli.2015.150239</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Cup_of_Gold</meta>
