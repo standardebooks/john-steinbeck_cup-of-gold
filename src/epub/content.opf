@@ -27,7 +27,14 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Cup of Gold</dc:title>
+		<meta property="title-type" refines="#title">main</meta>
 		<meta property="file-as" refines="#title">Cup of Gold</meta>
+		<dc:title id="subtitle">A Life of Sir Henry Morgan, Buccaneer, with Occasional References to History</dc:title>
+		<meta property="file-as" refines="#subtitle">Life of Sir Henry Morgan, Buccaneer, with Occasional References to History, A</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Cup of Gold: A Life of Sir Henry Morgan, Buccaneer, with Occasional References to History</dc:title>
+		<meta property="file-as" refines="#fulltitle">Cup of Gold</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Morgan, Henry, 1635?-1688 -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Governors--Jamaica -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Caribbean Area -- Fiction</dc:subject>
