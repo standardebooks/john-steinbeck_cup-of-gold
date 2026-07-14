@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Cup of Gold: A Life of Sir Henry Morgan, Buccaneer, with Occasional References to History</dc:title>
 		<meta property="file-as" refines="#fulltitle">Cup of Gold</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Morgan, Henry, 1635?-1688 -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Governors--Jamaica -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Caribbean Area -- Fiction</dc:subject>
